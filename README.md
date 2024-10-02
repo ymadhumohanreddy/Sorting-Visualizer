@@ -19,7 +19,8 @@ This is a **Sorting Visualizer** project built using **HTML**, **CSS**, and **Ja
 - **Generate New Array**: Users can generate a new random array to visualize the sorting algorithms on different datasets.
 
 
-
+## Try here
+https://ymadhumohanreddy.github.io/Sorting-Visualizer/
 
 ## Project Structure
 
