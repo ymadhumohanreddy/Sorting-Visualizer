@@ -2,6 +2,7 @@
 
 ---
 
+
 # Sorting Visualizer
 
 This is a **Sorting Visualizer** project built using **HTML**, **CSS**, and **JavaScript**. It provides a visual representation of different sorting algorithms, allowing users to see how various algorithms operate step-by-step on randomly generated arrays.
