@@ -21,7 +21,7 @@ This is a **Sorting Visualizer** project built using **HTML**, **CSS**, and **Ja
 
 
 ## Try here
-https://ymadhumohanreddy.github.io/Sorting-Visualizer/
+https://sortingvisualizerr.vercel.app/
 
 ## Project Structure
 
